@@ -1,0 +1,6 @@
+c:\users\70424\documents\visual studio 2012\Projects\深入数据类型\深入数据类型\bin\Debug\深入数据类型.exe.config
+c:\users\70424\documents\visual studio 2012\Projects\深入数据类型\深入数据类型\bin\Debug\深入数据类型.exe
+c:\users\70424\documents\visual studio 2012\Projects\深入数据类型\深入数据类型\bin\Debug\深入数据类型.pdb
+c:\users\70424\documents\visual studio 2012\Projects\深入数据类型\深入数据类型\obj\Debug\深入数据类型.csprojResolveAssemblyReference.cache
+c:\users\70424\documents\visual studio 2012\Projects\深入数据类型\深入数据类型\obj\Debug\深入数据类型.exe
+c:\users\70424\documents\visual studio 2012\Projects\深入数据类型\深入数据类型\obj\Debug\深入数据类型.pdb

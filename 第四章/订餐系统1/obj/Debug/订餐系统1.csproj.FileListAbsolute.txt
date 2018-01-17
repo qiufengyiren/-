@@ -1,0 +1,6 @@
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第四章\订餐系统1\bin\Debug\订餐系统1.exe.config
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第四章\订餐系统1\bin\Debug\订餐系统1.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第四章\订餐系统1\bin\Debug\订餐系统1.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第四章\订餐系统1\obj\Debug\订餐系统1.csprojResolveAssemblyReference.cache
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第四章\订餐系统1\obj\Debug\订餐系统1.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第四章\订餐系统1\obj\Debug\订餐系统1.pdb

@@ -1,0 +1,13 @@
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\项目经理评分\bin\Debug\项目经理评分.exe.config
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\项目经理评分\bin\Debug\项目经理评分.exe
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\项目经理评分\bin\Debug\项目经理评分.pdb
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\项目经理评分\obj\Debug\项目经理评分.csprojResolveAssemblyReference.cache
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\项目经理评分\obj\Debug\项目经理评分.FrmJudge.resources
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\项目经理评分\obj\Debug\项目经理评分.frmMain.resources
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\项目经理评分\obj\Debug\项目经理评分.Properties.Resources.resources
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\项目经理评分\obj\Debug\项目经理评分.csproj.GenerateResource.Cache
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\项目经理评分\obj\Debug\项目经理评分.exe
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\项目经理评分\obj\Debug\项目经理评分.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\深入数据类型\项目经理评分\bin\Debug\项目经理评分.exe.config
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\深入数据类型\项目经理评分\obj\Debug\项目经理评分.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\深入数据类型\项目经理评分\obj\Debug\项目经理评分.pdb

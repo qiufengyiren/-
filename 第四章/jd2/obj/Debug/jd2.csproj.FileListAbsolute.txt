@@ -1,0 +1,12 @@
+D:\S2 第一本书\第一章\第四章\jd2\bin\Debug\jd2.exe.config
+D:\S2 第一本书\第一章\第四章\jd2\bin\Debug\jd2.exe
+D:\S2 第一本书\第一章\第四章\jd2\bin\Debug\jd2.pdb
+D:\S2 第一本书\第一章\第四章\jd2\obj\Debug\jd2.csprojResolveAssemblyReference.cache
+D:\S2 第一本书\第一章\第四章\jd2\obj\Debug\jd2.exe
+D:\S2 第一本书\第一章\第四章\jd2\obj\Debug\jd2.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第四章\jd2\bin\Debug\jd2.exe.config
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第四章\jd2\obj\Debug\jd2.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第四章\jd2\obj\Debug\jd2.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第四章\jd2\bin\Debug\jd2.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第四章\jd2\bin\Debug\jd2.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第四章\jd2\obj\Debug\jd2.csprojResolveAssemblyReference.cache

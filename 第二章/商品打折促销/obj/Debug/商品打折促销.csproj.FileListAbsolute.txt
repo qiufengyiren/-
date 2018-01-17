@@ -1,0 +1,5 @@
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\深入数据类型\商品打折促销\bin\Debug\商品打折促销.exe.config
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\深入数据类型\商品打折促销\bin\Debug\商品打折促销.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\深入数据类型\商品打折促销\bin\Debug\商品打折促销.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\深入数据类型\商品打折促销\obj\Debug\商品打折促销.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\深入数据类型\商品打折促销\obj\Debug\商品打折促销.pdb

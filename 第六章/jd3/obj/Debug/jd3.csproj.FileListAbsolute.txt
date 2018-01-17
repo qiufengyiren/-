@@ -1,0 +1,6 @@
+C:\Users\70424\documents\visual studio 2012\Projects\第六章\jd3\bin\Debug\jd3.exe.config
+C:\Users\70424\documents\visual studio 2012\Projects\第六章\jd3\obj\Debug\jd3.csprojResolveAssemblyReference.cache
+C:\Users\70424\documents\visual studio 2012\Projects\第六章\jd3\bin\Debug\jd3.exe
+C:\Users\70424\documents\visual studio 2012\Projects\第六章\jd3\bin\Debug\jd3.pdb
+C:\Users\70424\documents\visual studio 2012\Projects\第六章\jd3\obj\Debug\jd3.exe
+C:\Users\70424\documents\visual studio 2012\Projects\第六章\jd3\obj\Debug\jd3.pdb

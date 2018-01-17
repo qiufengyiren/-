@@ -1,0 +1,6 @@
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\深入数据类型\学员成绩提分\bin\Debug\学员成绩提分.exe.config
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\深入数据类型\学员成绩提分\bin\Debug\学员成绩提分.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\深入数据类型\学员成绩提分\bin\Debug\学员成绩提分.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\深入数据类型\学员成绩提分\obj\Debug\学员成绩提分.csprojResolveAssemblyReference.cache
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\深入数据类型\学员成绩提分\obj\Debug\学员成绩提分.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\深入数据类型\学员成绩提分\obj\Debug\学员成绩提分.pdb

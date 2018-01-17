@@ -1,0 +1,3 @@
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第四章\jd2\bin\Debug\jd2.exe.config
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第四章\jd2\obj\Debug\jd2.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第四章\jd2\obj\Debug\jd2.pdb

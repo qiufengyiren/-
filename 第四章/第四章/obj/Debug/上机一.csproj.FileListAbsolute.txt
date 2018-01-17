@@ -1,0 +1,6 @@
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第四章\第四章\bin\Debug\第四章.exe.config
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第四章\第四章\obj\Debug\第四章.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第四章\第四章\obj\Debug\第四章.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第四章\第四章\bin\Debug\第四章.exe.config
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第四章\第四章\obj\Debug\第四章.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第四章\第四章\obj\Debug\第四章.pdb

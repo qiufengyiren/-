@@ -1,0 +1,10 @@
+c:\users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\多态实现乐器弹奏\bin\Debug\多态实现乐器弹奏.exe.config
+c:\users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\多态实现乐器弹奏\obj\Debug\多态实现乐器弹奏.csprojResolveAssemblyReference.cache
+c:\users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\多态实现乐器弹奏\obj\Debug\多态实现乐器弹奏.Form1.resources
+c:\users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\多态实现乐器弹奏\obj\Debug\多态实现乐器弹奏.Properties.Resources.resources
+c:\users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\多态实现乐器弹奏\obj\Debug\多态实现乐器弹奏.csproj.GenerateResource.Cache
+c:\users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\多态实现乐器弹奏\obj\Debug\多态实现乐器弹奏.PlayFrom.resources
+c:\users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\多态实现乐器弹奏\bin\Debug\多态实现乐器弹奏.exe
+c:\users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\多态实现乐器弹奏\bin\Debug\多态实现乐器弹奏.pdb
+c:\users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\多态实现乐器弹奏\obj\Debug\多态实现乐器弹奏.exe
+c:\users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\多态实现乐器弹奏\obj\Debug\多态实现乐器弹奏.pdb

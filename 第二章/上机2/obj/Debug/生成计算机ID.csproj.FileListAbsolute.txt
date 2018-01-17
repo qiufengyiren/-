@@ -1,0 +1,6 @@
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\上机2\bin\Debug\上机2.exe.config
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\上机2\bin\Debug\上机2.exe
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\上机2\bin\Debug\上机2.pdb
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\上机2\obj\Debug\生成计算机ID.csprojResolveAssemblyReference.cache
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\上机2\obj\Debug\上机2.exe
+C:\Users\70424\documents\visual studio 2012\Projects\深入数据类型\上机2\obj\Debug\上机2.pdb

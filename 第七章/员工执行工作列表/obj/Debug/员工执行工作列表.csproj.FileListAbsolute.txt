@@ -1,0 +1,11 @@
+c:\Users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\员工执行工作列表\bin\Debug\员工执行工作列表.exe.config
+c:\Users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\员工执行工作列表\obj\Debug\员工执行工作列表.csprojResolveAssemblyReference.cache
+c:\Users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\员工执行工作列表\obj\Debug\员工执行工作列表.FrmJobs.resources
+c:\Users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\员工执行工作列表\obj\Debug\员工执行工作列表.FrmTestExe.resources
+c:\Users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\员工执行工作列表\obj\Debug\员工执行工作列表.FrmCodeExe.resources
+c:\Users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\员工执行工作列表\obj\Debug\员工执行工作列表.Properties.Resources.resources
+c:\Users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\员工执行工作列表\obj\Debug\员工执行工作列表.csproj.GenerateResource.Cache
+c:\Users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\员工执行工作列表\bin\Debug\员工执行工作列表.exe
+c:\Users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\员工执行工作列表\bin\Debug\员工执行工作列表.pdb
+c:\Users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\员工执行工作列表\obj\Debug\员工执行工作列表.exe
+c:\Users\70424\documents\visual studio 2012\Projects\多态实现乐器弹奏\员工执行工作列表\obj\Debug\员工执行工作列表.pdb

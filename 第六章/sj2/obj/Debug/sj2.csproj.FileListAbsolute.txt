@@ -1,0 +1,9 @@
+c:\users\70424\documents\visual studio 2012\Projects\第六章\sj2\bin\Debug\sj2.exe.config
+c:\users\70424\documents\visual studio 2012\Projects\第六章\sj2\obj\Debug\sj2.csprojResolveAssemblyReference.cache
+c:\users\70424\documents\visual studio 2012\Projects\第六章\sj2\obj\Debug\sj2.Form1.resources
+c:\users\70424\documents\visual studio 2012\Projects\第六章\sj2\obj\Debug\sj2.Properties.Resources.resources
+c:\users\70424\documents\visual studio 2012\Projects\第六章\sj2\obj\Debug\sj2.csproj.GenerateResource.Cache
+c:\users\70424\documents\visual studio 2012\Projects\第六章\sj2\bin\Debug\sj2.exe
+c:\users\70424\documents\visual studio 2012\Projects\第六章\sj2\bin\Debug\sj2.pdb
+c:\users\70424\documents\visual studio 2012\Projects\第六章\sj2\obj\Debug\sj2.exe
+c:\users\70424\documents\visual studio 2012\Projects\第六章\sj2\obj\Debug\sj2.pdb

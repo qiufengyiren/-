@@ -1,0 +1,12 @@
+D:\S2 第一本书\第一章\第三章\text\bin\Debug\text.exe.config
+D:\S2 第一本书\第一章\第三章\text\bin\Debug\text.exe
+D:\S2 第一本书\第一章\第三章\text\bin\Debug\text.pdb
+D:\S2 第一本书\第一章\第三章\text\obj\Debug\text.exe
+D:\S2 第一本书\第一章\第三章\text\obj\Debug\text.pdb
+D:\S2 第一本书\第一章\第三章\text\obj\Debug\text.csprojResolveAssemblyReference.cache
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第三章\text\bin\Debug\text.exe.config
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第三章\text\obj\Debug\text.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第三章\text\obj\Debug\text.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第三章\text\bin\Debug\text.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第三章\text\bin\Debug\text.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第三章\text\obj\Debug\text.csprojResolveAssemblyReference.cache

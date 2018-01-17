@@ -1,0 +1,17 @@
+C:\Users\70424\documents\visual studio 2012\Projects\第六章\ATM取款机\bin\Debug\ATM取款机.exe.config
+C:\Users\70424\documents\visual studio 2012\Projects\第六章\ATM取款机\bin\Debug\ATM取款机.exe
+C:\Users\70424\documents\visual studio 2012\Projects\第六章\ATM取款机\bin\Debug\ATM取款机.pdb
+C:\Users\70424\documents\visual studio 2012\Projects\第六章\ATM取款机\obj\Debug\ATM取款机.Form1.resources
+C:\Users\70424\documents\visual studio 2012\Projects\第六章\ATM取款机\obj\Debug\ATM取款机.Properties.Resources.resources
+C:\Users\70424\documents\visual studio 2012\Projects\第六章\ATM取款机\obj\Debug\ATM取款机.csproj.GenerateResource.Cache
+C:\Users\70424\documents\visual studio 2012\Projects\第六章\ATM取款机\obj\Debug\ATM取款机.exe
+C:\Users\70424\documents\visual studio 2012\Projects\第六章\ATM取款机\obj\Debug\ATM取款机.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第六章\ATM取款机\bin\Debug\ATM取款机.exe.config
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第六章\ATM取款机\obj\Debug\ATM取款机.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第六章\ATM取款机\obj\Debug\ATM取款机.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第六章\ATM取款机\bin\Debug\ATM取款机.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第六章\ATM取款机\bin\Debug\ATM取款机.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第六章\ATM取款机\obj\Debug\ATM取款机.csprojResolveAssemblyReference.cache
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第六章\ATM取款机\obj\Debug\ATM取款机.Form1.resources
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第六章\ATM取款机\obj\Debug\ATM取款机.Properties.Resources.resources
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第六章\ATM取款机\obj\Debug\ATM取款机.csproj.GenerateResource.Cache

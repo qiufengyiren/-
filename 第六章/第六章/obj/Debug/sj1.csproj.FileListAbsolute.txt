@@ -1,0 +1,12 @@
+c:\users\70424\documents\visual studio 2012\Projects\第六章\第六章\bin\Debug\第六章.exe.config
+c:\users\70424\documents\visual studio 2012\Projects\第六章\第六章\bin\Debug\第六章.exe
+c:\users\70424\documents\visual studio 2012\Projects\第六章\第六章\bin\Debug\第六章.pdb
+c:\users\70424\documents\visual studio 2012\Projects\第六章\第六章\obj\Debug\第六章.exe
+c:\users\70424\documents\visual studio 2012\Projects\第六章\第六章\obj\Debug\第六章.pdb
+C:\Users\70424\documents\visual studio 2012\Projects\第六章\第六章\obj\Debug\sj1.csprojResolveAssemblyReference.cache
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第六章\第六章\bin\Debug\第六章.exe.config
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第六章\第六章\obj\Debug\第六章.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第六章\第六章\obj\Debug\第六章.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第六章\第六章\bin\Debug\第六章.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第六章\第六章\bin\Debug\第六章.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期的详细作业\第六章\第六章\obj\Debug\sj1.csprojResolveAssemblyReference.cache

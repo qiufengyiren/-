@@ -1,0 +1,27 @@
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\bin\Debug\ExaminationList.exe.config
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\bin\Debug\ExaminationList.exe
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\bin\Debug\ExaminationList.pdb
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\obj\Debug\ExaminationList.csprojResolveAssemblyReference.cache
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\obj\Debug\ExaminationList.FrmMain.resources
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\obj\Debug\ExaminationList.Properties.Resources.resources
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\obj\Debug\ExaminationList.csproj.GenerateResource.Cache
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\obj\Debug\ExaminationList.exe
+C:\Users\FLC\Desktop\体检套餐系统\ExaminationList\ExaminationList\ExaminationList\obj\Debug\ExaminationList.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双类集合体检套餐系统\ExaminationList\ExaminationList\bin\Debug\ExaminationList.exe.config
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双类集合体检套餐系统\ExaminationList\ExaminationList\obj\Debug\ExaminationList.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双类集合体检套餐系统\ExaminationList\ExaminationList\obj\Debug\ExaminationList.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双类集合体检套餐系统\ExaminationList\ExaminationList\bin\Debug\ExaminationList.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双类集合体检套餐系统\ExaminationList\ExaminationList\bin\Debug\ExaminationList.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双类集合体检套餐系统\ExaminationList\ExaminationList\obj\Debug\ExaminationList.csprojResolveAssemblyReference.cache
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双类集合体检套餐系统\ExaminationList\ExaminationList\obj\Debug\ExaminationList.FrmMain.resources
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双类集合体检套餐系统\ExaminationList\ExaminationList\obj\Debug\ExaminationList.Properties.Resources.resources
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双类集合体检套餐系统\ExaminationList\ExaminationList\obj\Debug\ExaminationList.csproj.GenerateResource.Cache
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双项集合体检套餐系统\ExaminationList\ExaminationList\bin\Debug\ExaminationList.exe.config
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双项集合体检套餐系统\ExaminationList\ExaminationList\obj\Debug\ExaminationList.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双项集合体检套餐系统\ExaminationList\ExaminationList\obj\Debug\ExaminationList.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双项集合体检套餐系统\ExaminationList\ExaminationList\bin\Debug\ExaminationList.exe
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双项集合体检套餐系统\ExaminationList\ExaminationList\bin\Debug\ExaminationList.pdb
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双项集合体检套餐系统\ExaminationList\ExaminationList\obj\Debug\ExaminationList.csprojResolveAssemblyReference.cache
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双项集合体检套餐系统\ExaminationList\ExaminationList\obj\Debug\ExaminationList.FrmMain.resources
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双项集合体检套餐系统\ExaminationList\ExaminationList\obj\Debug\ExaminationList.Properties.Resources.resources
+C:\Users\70424\Documents\Visual Studio 2012\第二期内容\第五章双项集合体检套餐系统\ExaminationList\ExaminationList\obj\Debug\ExaminationList.csproj.GenerateResource.Cache
